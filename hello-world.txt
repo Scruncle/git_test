@@ -1,0 +1,1 @@
+Neat text to add, ctrl ` opening terminal in VS Code is sick
